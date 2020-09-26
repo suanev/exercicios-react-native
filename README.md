@@ -4,6 +4,7 @@
 ### o que aprendi?
 * logica de numero após a virgula
 * tornar um componente mais reutilizável
+* debugar em react native
 
 <p align="center">
     <img src="https://media0.giphy.com/media/120JXR6aoavpcs2OHM/giphy.gif" alt="Demo">
